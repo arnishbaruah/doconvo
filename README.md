@@ -20,8 +20,10 @@ Key Features of DoConvo:
 - **Seamless Integration:** Integrates various modern technologies for a robust and efficient user experience.
 
 ## Screenshots💻
-![image](https://github.com/arnishbaruah/anonymouse-board/assets/89624454/5d12e121-2461-4527-b586-6f7469fa7eff)
-![image](https://github.com/arnishbaruah/anonymouse-board/assets/89624454/d5fa6405-b173-4ccf-b984-da06eae0f1ed)
+![image](https://github.com/arnishbaruah/doconvo/assets/89624454/09a7eebc-0197-4049-a94c-59b6d352814a)
+![image](https://github.com/arnishbaruah/doconvo/assets/89624454/bb709c56-699f-4010-a247-af872bdbf039)
+![image](https://github.com/arnishbaruah/doconvo/assets/89624454/ef4d9a53-b95f-4191-8ecd-428274b3a6ae)
+![image](https://github.com/arnishbaruah/doconvo/assets/89624454/0fce7220-cc2a-47ad-befc-00e5a5fea62c)
 
 ## Technologies Used🛠️
 - Next.js
